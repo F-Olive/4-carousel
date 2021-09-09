@@ -19,7 +19,7 @@ module.exports = {
       }
     ]
   },
-  "entry": {
-    "index": "./index"
-  }
+  // "entry": {
+    // "index": "./index"
+  // }
 };
